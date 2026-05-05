@@ -1,16 +1,93 @@
-## Hi there 👋
+## 👨🏻‍💻 | Ian Rodrigues
 
-<!--
-**ianrodrigues1/ianrodrigues1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor de Software`**
 
-Here are some ideas to get you started:
+Meu nome é Ian Felipe, tenho 19 anos e sou natural de Campinas-SP. Eu curso Análise e Desenvolvimento de Sistemas no UNASP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho grande interesse na área de tecnologia e venho construindo meu portfólio com projetos práticos, buscando evolução constante e o desenvolvimento de soluções reais. Estou sempre em busca de aprimorar minhas habilidades.
+
+Conecte-se comigo no "[Linkedin](www.linkedin.com/in/ianrodrigues0)" e acompanhe minha trajetória na área de tecnologia.
+
+<p align="left">
+    </a> 
+    <a href="https://github.com/IanRodrigues1?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/IanRodrigues1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/IanRodrigues1?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/IanRodrigues1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+
+<img 
+  align="left"
+  height="200"
+  src="https://github-readme-stats-8d5cqf5z0-ianrodrigues1s-projects.vercel.app/api?username=ianrodrigues1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&v=2"
+/>
+
+<img 
+  align="left"
+  height="200"
+  src="https://github-readme-stats-8d5cqf5z0-ianrodrigues1s-projects.vercel.app/api/top-langs/?username=ianrodrigues1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=2"
+/>
+
+</p>

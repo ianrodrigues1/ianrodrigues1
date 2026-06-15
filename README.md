@@ -17,13 +17,6 @@ Conecte-se comigo no "[Linkedin](www.linkedin.com/in/ianrodrigues0)" e acompanhe
             src="https://custom-icon-badges.demolab.com/github/stars/ianrodrigues1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/ianrodrigues1?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ianrodrigues1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 
 ---

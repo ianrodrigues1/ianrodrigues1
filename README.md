@@ -6,7 +6,7 @@ Meu nome é Ian Felipe, tenho 19 anos e sou natural de Campinas-SP. Eu curso An�
 
 Tenho grande interesse na área de tecnologia e venho construindo meu portfólio com projetos práticos, buscando evolução constante e o desenvolvimento de soluções reais. Estou sempre em busca de aprimorar minhas habilidades.
 
-Conecte-se comigo no "[Linkedin](www.linkedin.com/in/ianrodrigues0)" e acompanhe minha trajetória na área de tecnologia.
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/ianrodrigues0) e acompanhe minha trajetória na área de tecnologia.
 
 <p align="left">
     </a> 

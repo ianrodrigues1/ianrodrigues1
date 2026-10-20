@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Meu nome é Ian Felipe, tenho 19 anos e sou natural de Campinas-SP. Eu curso Análise e Desenvolvimento de Sistemas no UNASP.
+Meu nome é Ian Felipe, tenho 20 anos e sou natural de Campinas-SP. Eu curso Análise e Desenvolvimento de Sistemas no UNASP.
 
 Tenho grande interesse na área de tecnologia e venho construindo meu portfólio com projetos práticos, buscando evolução constante e o desenvolvimento de soluções reais. Estou sempre em busca de aprimorar minhas habilidades.
 
